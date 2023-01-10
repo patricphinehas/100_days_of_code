@@ -1,0 +1,8 @@
+= 100 Days of Code < language: Python>
+Patric Phinehas Raj <patricphinehasraj@yahoo.com>
+:description: Records the day to day learing og the coding journey
+:url-repo: https://github.com/patricphinehas/100_days_of_code.git
+-- The folder/repository is being learned and maintained by { Patric Phinehas Raj }
+
+-- ascii docs link for reference <https://docs.asciidoctor.org/asciidoc/latest/>
+
